@@ -1,0 +1,15 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="7">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1000" startPos="852" endPos="852" selMode="0" lang="Javascript" encoding="-1" filename="C:\D\html\acTest\js\sprite.js" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="864" startPos="1380" endPos="1380" selMode="0" lang="HTML" encoding="-1" filename="C:\D\html\acTest\index.html" />
+            <File firstVisibleLine="11" xOffset="0" scrollWidth="720" startPos="953" endPos="953" selMode="0" lang="Javascript" encoding="-1" filename="C:\D\html\acTest\js\utils.js" />
+            <File firstVisibleLine="159" xOffset="0" scrollWidth="832" startPos="5570" endPos="5570" selMode="0" lang="Javascript" encoding="-1" filename="C:\D\html\acTest\js\gui.js" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="696" startPos="592" endPos="592" selMode="0" lang="Javascript" encoding="-1" filename="C:\D\html\acTest\js\root.js" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="819" startPos="2142" endPos="2142" selMode="0" lang="Javascript" encoding="-1" filename="C:\D\html\acTest\js\mainframe.js" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="856" startPos="997" endPos="997" selMode="0" lang="Javascript" encoding="-1" filename="C:\D\html\acTest\js\ack_view.js" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="832" startPos="989" endPos="989" selMode="0" lang="Javascript" encoding="-1" filename="C:\D\html\acTest\js\ack_nodes.js" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
